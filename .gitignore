@@ -1,4 +1,5 @@
 .sass
 .bin
 .admin
-.gi
+.config
+.out
